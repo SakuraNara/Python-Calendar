@@ -1,4 +1,11 @@
-import calendar
+import calendar #calendar na 2024 god
+calendar.prmonth(2024, 1)
+calendar.prmonth(2024, 2)
+calendar.prmonth(2024, 3)
+calendar.prmonth(2024, 4)
+calendar.prmonth(2024, 5)
+calendar.prmonth(2024, 6)
+calendar.prmonth(2024, 7)
 calendar.prmonth(2024, 8)
 calendar.prmonth(2024, 9)
 calendar.prmonth(2024, 10)
